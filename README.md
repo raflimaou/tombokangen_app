@@ -7,3 +7,6 @@ Rancang Bangun Aplikasi Sistem Rekomendasi Menu Rumah Makan Berbasis Android (St
 The application was developed using the Dart programming language and the Flutter Framework.
 The application backend is developed using the PHP Native programming language and uses the MySQL database.
 To determine the value of recommendations on restaurant menus using Machine Learning with the FP-Growth Algorithm using Rapid Miner software
+
+## How to Install
+For use this App please check: https://github.com/raflimaou/apitombokangen
