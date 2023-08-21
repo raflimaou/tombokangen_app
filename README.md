@@ -1,16 +1,9 @@
-# ecommerce_app
+# Tombo Kangen App
 
-A new Flutter project.
+Rancang Bangun Aplikasi Sistem Rekomendasi Menu Rumah Makan Berbasis Android (Studi Kasus: Rumah Makan Tombo Kangen)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The application was developed using the Dart programming language and the Flutter Framework.
+The application backend is developed using the PHP Native programming language and uses the MySQL database.
+To determine the value of recommendations on restaurant menus using Machine Learning with the FP-Growth Algorithm using Rapid Miner software
